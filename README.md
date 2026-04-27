@@ -44,5 +44,6 @@ Recently, I have been focusing on computer vision and AI model development. I wo
 
 ## 📫 How to reach me
 
-- GitHub: https://github.com/USERNAME
-- Email: yourmail@gmail.com
+- GitHub: https://github.com/KeremKuru22
+- Email: keremkuru22@gmail.com  //  keremkuru22@istanbularel.edu.tr
+- Linkedln: https://www.linkedin.com/in/keremkuru22/
